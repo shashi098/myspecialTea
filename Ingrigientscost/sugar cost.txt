@@ -1,1 +1,1 @@
-sugar cost: 15
+sugar cost: 11
